@@ -1,0 +1,6 @@
+{
+  "name": "Agropecuária Fênix",
+  "description": "Website institucional e e-commerce da Agropecuária Fênix com atendimento via chatbot inteligente integrado e links diretos para compras no WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
